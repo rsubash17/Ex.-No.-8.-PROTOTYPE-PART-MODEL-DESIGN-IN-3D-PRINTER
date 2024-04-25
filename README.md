@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/rsubash17/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147139828/23bb6e16-b36c-48e6-a281-d47de4edb0a2)
 
-### Name:
-### Register Number:
+### Name: SUBASH R
+### Register Number: 212223230218
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
